@@ -68,9 +68,6 @@ The project was developed as part of the NASA International Space Apps Challenge
 
 We welcome contributions to ADAMS42! If you'd like to contribute to the project, feel free to submit issues or pull requests via the GitHub repositories linked above. Please follow the coding conventions and ensure that any new features or fixes are thoroughly tested.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
